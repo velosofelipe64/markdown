@@ -14,4 +14,4 @@
 
 # Image test
 
-![This is a alt text.](/download.png "This is a sample image.")(https://www.liferay.com/)s
+![This is a alt text.](/download.png "This is a sample image."(https://www.liferay.com/))
