@@ -14,4 +14,4 @@
 
 # Image test
 
-download.png(https://www.liferay.com/)
+(/download.png)(https://www.liferay.com/)
